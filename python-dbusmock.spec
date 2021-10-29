@@ -4,7 +4,7 @@
 #
 Name     : python-dbusmock
 Version  : 0.24.1
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/b6/e1/c3abaeefcc37a91e459443c69682e4a3980ca6db99fdfdd582b2c9ca0533/python-dbusmock-0.24.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b6/e1/c3abaeefcc37a91e459443c69682e4a3980ca6db99fdfdd582b2c9ca0533/python-dbusmock-0.24.1.tar.gz
 Summary  : Mock D-Bus objects
